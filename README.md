@@ -1,8 +1,8 @@
 # The Best Meal You Ever Had
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
-[![Bounty $2](https://img.shields.io/badge/bounty-%242-brightgreen)](https://make.fun/c/u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
-[![Status: Open](https://img.shields.io/badge/status-open-blue)](https://make.fun/c/u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
+[![make.fun · u-pangg7-the-best-meal-you-ever-had-a3ac0f85](https://make.fun/badge/u-pangg7-the-best-meal-you-ever-had-a3ac0f85.svg)](https://make.fun/bounty/u-pangg7-the-best-meal-you-ever-had-a3ac0f85?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
+[![rank](https://make.fun/badge/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/Tigapandax/best-meal-you-ever-had-akun1/rank.svg)](https://make.fun/bounty/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
+[![reward](https://make.fun/badge/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/Tigapandax/best-meal-you-ever-had-akun1/reward.svg)](https://make.fun/bounty/u-pangg7-the-best-meal-you-ever-had-a3ac0f85?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
 
 A make.fun program/v1 entry for [The Best Meal You Ever Had](https://make.fun/c/u-pangg7-the-best-meal-you-ever-had-a3ac0f85) ($2, Growth).
 

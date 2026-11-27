@@ -17,6 +17,7 @@ if (line.length > 200) throw new Error(`entry is ${line.length} chars, over the 
 if (!line.trim()) throw new Error("entry is only whitespace");
 if (line.includes("\n") || line.includes("\r")) throw new Error("entry must be a single line");
 if (line !== line.trim()) throw new Error("entry has leading/trailing whitespace");
+if (line.includes("  ")) throw new Error("entry has a double space");
 if (!/[.!?]$/.test(line)) throw new Error("entry must end with terminal punctuation");
 
 mkdirSync(outDir, { recursive: true });
